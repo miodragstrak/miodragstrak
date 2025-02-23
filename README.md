@@ -2,7 +2,7 @@
 - 👀 I’m interested in Solidity, Node.js, Java, Scala...
 - 🌱 I’m currently in blockchain development
 - 💞️ I’m looking to collaborate on blockchain related projects
-- 📫 How to reach me miodrag.strak@gmail.com
+- 📫 How to reach me private.2925672709@vpn.diamonds
 
 <!---
 miodragstrak/miodragstrak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
